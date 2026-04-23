@@ -8,7 +8,7 @@ st.title("🎧 Customer Success Portal")
 st.markdown("**Project 1, Day 5: Business Impact & ROI**")
 
 # The URL where your FastAPI server is running
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://churn-api-0s8x.onrender.com/predict"
 
 st.sidebar.header("Agent Controls")
 st.sidebar.info("Enter the customer's details while on the phone with them, then click 'Check Risk'.")
