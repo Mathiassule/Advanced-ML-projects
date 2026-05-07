@@ -1,2 +1,29 @@
-/venv/
+--- Python Artifacts ---
+
+pycache/
+*.py[cod]
+*$py.class
+
+--- Virtual Environments ---
+
 venv/
+env/
+.env
+
+--- Data & Databases (CRITICAL) ---
+
+*.db
+*.sqlite3
+*.csv
+ecommerce_pricing.db
+
+--- Machine Learning Models ---
+
+*.pkl
+*.h5
+*.pt
+
+--- OS Generated Files ---
+
+.DS_Store
+Thumbs.db
