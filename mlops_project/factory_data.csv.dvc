@@ -1,0 +1,5 @@
+outs:
+- md5: edff73d322d2c052ab2fd910c8739948
+  size: 57576
+  hash: md5
+  path: factory_data.csv
