@@ -103,4 +103,4 @@ with col2:
                     st.write("**Start of Chunk 2:**")
                     st.code(chunks[1][:100])
     else:
-        st.warning("Please provide some text or upload a PDF to begin.")
+        st.warning("Please provide some text or upload a PDF to begin.") 
