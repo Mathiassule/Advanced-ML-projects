@@ -111,4 +111,4 @@ with tab2:
     st.markdown("""
     **💡 Try this test:**
     Search for *"vacation"*. Notice how it successfully pulls up the PTO section, even though the word "vacation" is only briefly mentioned at the very end. The AI understands that "PTO", "time off", and "vacation" occupy the same semantic space!
-    """)
+    """)  
